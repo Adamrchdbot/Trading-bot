@@ -22,8 +22,8 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ══════════════════════════════════════════
 
-ALPACA_KEY    = “VOTRE_ALPACA_KEY”
-ALPACA_SECRET = “VOTRE_ALPACA_SECRET”
+ALPACA_KEY    = “PKL7C73CNKNRA5ZWXEAKWTZYIK”
+ALPACA_SECRET = “6Av5ksQr3R27ZD5zv11pAkQ6iSD83yjW9595excD8Geg”
 BASE_URL      = “https://paper-api.alpaca.markets”
 
 TELEGRAM_TOKEN   = “8698977538:AAGRX5JVKgCmRUuEfGNQfQC9knY5kqONca8”  # ⚠️ Mets ton nouveau token ici
